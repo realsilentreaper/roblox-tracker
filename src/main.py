@@ -1,7 +1,7 @@
 # variables:
 
-webhook = '' # set your discord webhook here
-user_id = '' # set the roblox user's username you wanna track
+https://discord.com/api/webhooks/1202850701739302962/sM7y84xmkFqi9I7Rq8oqDZbHhWPHnfZsh414cPih6bM-4sXlJrIYE0aK9A09rrlpyRXu = '' # set your discord webhook here
+5433821968 = '' # set the roblox user's username you wanna track
 minutes_per_check = 10 # minutes per check
 
 # code below !!!
